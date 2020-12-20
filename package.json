@@ -1,0 +1,17 @@
+{
+  "name": "webpack-es-crash",
+  "version": "1.0.0",
+  "description": "Demo webpack crash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ludovico Fischer",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.11.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.2.0"
+  }
+}
